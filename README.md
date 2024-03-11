@@ -36,9 +36,9 @@ When web3 projects onboard TON, they can find the profiles of high impact crowd 
 ### 3.1 Product Architecture
 
 1. Incentive passport
-   Provides functionalities for identity verification. A user can create an incentive passport by connecting with TON wallet.
-   Users can attest their activities and profiles from multiple blockchains and web2 services(X, Meta etc.) through Incentive Passport.
-   Users should get access to their incentive passport in the TBook TMA. They can manage and view their TON Builder Scores on the TBook Incentive Passport TMA.
+   1. Provides functionalities for identity verification. A user can create an incentive passport by connecting with TON wallet.
+   2. Users can attest their activities and profiles from multiple blockchains and web2 services(X, Meta etc.) through Incentive Passport.
+   3. Users should get access to their incentive passport in the TBook TMA. They can manage and view their TON Builder Scores on the TBook Incentive Passport TMA.
 2. TON Builder Score Engine
    TON Builder Score is an indicator of: activeness, holdings and coinage, engagement, multi-chain wealth and social impact.
    Handles the calculation of users’ TON Builder Scores and user ranking.
