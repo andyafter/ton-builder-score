@@ -40,12 +40,12 @@ When web3 projects onboard TON, they can find the profiles of high impact crowd 
    2. Users can attest their activities and profiles from multiple blockchains and web2 services(X, Meta etc.) through Incentive Passport.
    3. Users should get access to their incentive passport in the TBook TMA. They can manage and view their TON Builder Scores on the TBook Incentive Passport TMA.
 2. TON Builder Score Engine
-   TON Builder Score is an indicator of: activeness, holdings and coinage, engagement, multi-chain wealth and social impact.
-   Handles the calculation of users’ TON Builder Scores and user ranking.
-   Each time a user attests certain data, TON Builder Score Engine will update the TOP users if there's any changes in the leaderboard. The update will be in the manner of a priority queue.
+   1. TON Builder Score is an indicator of: activeness, holdings and coinage, engagement, multi-chain wealth and social impact.
+   2. Handles the calculation of users’ TON Builder Scores and user ranking.
+   3. Each time a user attests certain data, TON Builder Score Engine will update the TOP users if there's any changes in the leaderboard. The update will be in the manner of a priority queue.
 3. Leaderboard
-   The user interface that provides the ranking of users' TON Builder Score. Leaderboard provides a UI with the high ranking individuals.
-   Users can open TON Builder Score Leaderboard in his own incentive passport TMA.
+   1. The user interface that provides the ranking of users' TON Builder Score. Leaderboard provides a UI with the high ranking individuals.
+   2. Users can open TON Builder Score Leaderboard in his own incentive passport TMA.
 
 ## Milestones
 
